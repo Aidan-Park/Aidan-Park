@@ -1,6 +1,14 @@
-- Aidan Park
-- aidanparkcv@gmail.com
+EECS 280 Project 1 Solution
+===========================
+Statistics
 
-- Electrical Engineering Undergraduate Student at the University of Michigan - Ann Arbor
-- 1 year electrical researcher at BIRDS Lab in Multi-legged Robots and Animal Motion (MuRoAM)
-- 4 years experience coding, specializing in C++ and Python
+By Aidan Park 
+
+<aidanparkcv@gmail.com>
+
+<aidanp@umich.edu>
+
+
+Started 2021/09/09
+
+Final Version Submitted 2021/09/12

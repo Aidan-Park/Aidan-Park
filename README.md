@@ -1,5 +1,5 @@
 - Aidan Park
-- aidanparkcv@gmail.com
+- aidanp@umich.edu
 
 - Electrical Engineering Undergraduate Student at the University of Michigan - Ann Arbor
 - 2 year electrical researcher at BIRDS Lab in Multi-legged Robots and Animal Motion (MuRoAM)
